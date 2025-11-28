@@ -9,7 +9,7 @@ described on the original platforms.
 ## NBA Player Statistics 2025–2026 (R1)
 
 - Source: Kaggle  
-- URL: <[(https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?select=Players.csv)]>  
+- URL: [(https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?select=Players.csv)]
 
 To reproduce the project:
 

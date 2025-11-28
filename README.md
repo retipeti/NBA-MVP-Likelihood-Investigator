@@ -13,7 +13,14 @@ One maintained external dataset is reused and processed to produce cleaned,
 analysis-ready datasets:
 
 **P1 – Cleaned NBA Dataset with box scores and Stats (1947-Today)**  
-# EZT KI KELL TÖLTENI
+P1 is a cleaned, analysis-ready subset of the original NBA player statistics
+source. Each row represents a single player’s performance in a single regular
+season game (2025–2026), with consistent identifiers, team information, game
+context (home/away, opponent, result), and core box-score metrics (minutes,
+points, rebounds, assists, shooting splits, etc.).
+
+P1 is intended as a **demonstration of the type of processed dataset** that the
+project aims to produce
 
 The project aims to support transparent, FAIR data practices, reproducibility,
 and reuse. All processing steps are documented in Jupyter notebooks and the
@@ -101,7 +108,7 @@ The notebook will:
 ### R1 – NBA Historical Stats Dataset [1974-2025] (maintained dataset)
 
 - **Source:** Kaggle  
-- **URL:** <[(https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?select=Players.csv)]>
+- **URL:** [(https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?select=Players.csv)]
 - **Licence:** MIT License 
 - **Accessed on:** 28.11.2025  
 
